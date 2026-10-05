@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "provider": "house",
+  "title": "Здесь может быть ваша реклама",
+  "subtitle": "Связаться: Telegram @vmagase_support",
+  "link": "https://t.me/vmagase_support",
+  "minBuild": 36
+}
